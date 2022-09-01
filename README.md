@@ -8,7 +8,8 @@ class SobreMim extends Desenvolvedor {
   nome     = 'Anderson Lima';
   area    = 'Software Development';
   formacao = 'Cursando 2º semestre de Engenharia de Software';
-  cursos = ['SENAI-Desenvolvedor JAVA', 'AWS Foundation' ,'AWS Cloud Developing', 'TEX Fullstack JS Developer'];
+  cursos = ['SENAI-Desenvolvedor JAVA', 'AWS Foundation' ,'AWS Cloud Developing', 
+  'TEX Fullstack JS Developer'];
   
 }
 class Skills extends Desenvolvedor {
