@@ -1,23 +1,18 @@
-
-
-<img align="right" width="299" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" />
-
 ```js
 import Desenvolvedor from 'And3rsLMM';
 class SobreMim extends Desenvolvedor {
   nome     = 'Anderson Lima';
   area    = 'Software Development';
   formacao = 'Cursando 2º semestre de Engenharia de Software';
-  cursos = ['SENAI-Desenvolvedor JAVA', 'AWS Foundation' ,'AWS Cloud Developing', 
-  'TEX Fullstack JS Developer'];
-  
+  cursos = ['SENAI-Desenvolvedor JAVA','AWS Foundation','AWS Cloud Developing','TEX Fullstack JS Developer'];
 }
 class Skills extends Desenvolvedor {
   linguagens  = ['C#','JAVA','JS','CSS','HTML','PHP','SQL'];
   ferramentas = ['Eclipse','Visual Studio','Visual Studio Code'];
-
 }
 ```
+<img align="right" width="250" height="290" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" />
+
 ## **Skills**
 <code><img height="32" src="https://iconape.com/wp-content/files/sh/51404/png/c--4.png" alt="c#"/></code>
 <code><img height="32" src="https://www.seekpng.com/png/full/223-2231845_logo-java-java-icon.png" alt="JAVA"/></code>
