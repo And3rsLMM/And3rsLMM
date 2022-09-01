@@ -32,7 +32,7 @@ class Skills extends Desenvolvedor {
 
 ## **Onde me encontrar**
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:andersonlimam.al@gmail.com" alt="Gmail">
   <img height="24" src="https://iconape.com/wp-content/files/rr/353408/png/google-gmail-logo.png" /></a>
   <a href="https://www.linkedin.com/in/anderson-lima-de-menezes-08a8541ab/" alt="Linkedin">
   <img height="32" src="https://iconape.com/wp-content/files/ot/76245/png/linkedin-icon.png" /></a>
