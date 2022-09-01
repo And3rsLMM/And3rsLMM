@@ -46,3 +46,6 @@ class Skills extends Desenvolvedor {
   <img height="30" src="https://icon-icons.com/downloadimage.php?id=180223&root=2836/PNG/512/&file=pet_cat_icon_180223.png"> </a>
   Cats
   
+  [![gitstats](https://github-readme-stats.vercel.app/api?username=And3rsLMM&show_icons=true&theme=merko&hide_title=true&text_color=#42f548&icons_color=#42f548)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![gitstats](https://github-readme-stats.vercel.app/api/top-langs/?username=And3rsLMM&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
