@@ -1,5 +1,4 @@
 ## **Seja bem vindo ao meu Github**
-<h1></h1>
 
 ```js
 import Desenvolvedor from 'And3rsLMM';
