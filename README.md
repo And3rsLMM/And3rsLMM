@@ -5,7 +5,7 @@ import Desenvolvedor from 'And3rsLMM';
 class SobreMim extends Desenvolvedor {
   nome     = 'Anderson Lima';
   area    = 'Software Development';
-  formacao = 'Cursando 2º semestre de Engenharia de Software';
+  formacao = 'Cursando 3º semestre de Engenharia de Software';
   cursos = ['SENAI-Desenvolvedor JAVA','AWS Foundation','AWS Cloud Developing','TEX Fullstack JS Developer'];
 }
 class Skills extends Desenvolvedor {
