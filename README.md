@@ -8,7 +8,7 @@ class AboutMe extends Developer {
   formation = 'currently in the 4º semester of Software Engineering';
   courses = ['SENAI-Desenvolvedor JAVA','SENAI-Desenvolvedor JAVA','AWS Foundation','AWS Cloud Developing','TEX Fullstack JS Developer'];
 }
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   languages  = ['C#','JAVA','JS','CSS','HTML','PHP','SQL'];
   frameworks = ['dotNet','Angular','Next','Vue'];
   devTools = ['Eclipse','Visual Studio','Visual Studio Code'];
