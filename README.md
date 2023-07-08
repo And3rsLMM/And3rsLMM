@@ -1,16 +1,17 @@
 ## **Seja bem vindo ao meu Github**
 
 ```js
-import Desenvolvedor from 'And3rsLMM';
-class SobreMim extends Desenvolvedor {
-  nome     = 'Anderson Lima';
+import Developer from 'And3rsLMM';
+class AboutMe extends Developer {
+  name     = 'Anderson Lima';
   area    = 'Software Development';
-  formacao = 'Cursando 3º semestre de Engenharia de Software';
-  cursos = ['SENAI-Desenvolvedor JAVA','AWS Foundation','AWS Cloud Developing','TEX Fullstack JS Developer'];
+  formation = 'currently in the 4º semester of Software Engineering';
+  courses = ['SENAI-Desenvolvedor JAVA','SENAI-Desenvolvedor JAVA','AWS Foundation','AWS Cloud Developing','TEX Fullstack JS Developer'];
 }
 class Skills extends Desenvolvedor {
-  linguagens  = ['C#','JAVA','JS','CSS','HTML','PHP','SQL'];
-  ferramentas = ['Eclipse','Visual Studio','Visual Studio Code'];
+  languages  = ['C#','JAVA','JS','CSS','HTML','PHP','SQL'];
+  frameworks = ['dotNet','Angular','Next','Vue'];
+  devTools = ['Eclipse','Visual Studio','Visual Studio Code'];
 }
 ```
 <h1></h1>
@@ -42,14 +43,14 @@ class Skills extends Desenvolvedor {
 <a  href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">
   <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSC"/></a>
 
-## **Onde me encontrar**
+## **Contact me**
 <p align="left">
   <a  href="mailto:andersonlimam.al@gmail.com" alt="Gmail" target="_blank" rel="noopener noreferrer">
     <img height="24" src="https://iconape.com/wp-content/files/rr/353408/png/google-gmail-logo.png" /></a>
   <a  href="https://www.linkedin.com/in/anderson-lima-de-menezes-08a8541ab/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
     <img height="32" src="https://iconape.com/wp-content/files/ot/76245/png/linkedin-icon.png" /></a>
 
-## **Um pouco mais sobre o Anderson**
+## **More about Anderson**
 <p align="left">
   <a  href="https://steamcommunity.com/id/D34DPoOLy/" alt="Steam" target="_blank" rel="noopener noreferrer">
     <img height="30" src="https://iconape.com/wp-content/files/rq/98762/png/steam-icon-logo.png"> </a>
