@@ -1,4 +1,4 @@
-## **Seja bem vindo ao meu Github**
+## **Welcome to my GitHub**
 
 ```js
 import Developer from 'And3rsLMM';
