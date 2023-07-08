@@ -6,7 +6,7 @@ class AboutMe extends Developer {
   name     = 'Anderson Lima';
   area    = 'Software Development';
   formation = 'currently in the 4º semester of Software Engineering';
-  courses = ['SENAI-Desenvolvedor JAVA','SENAI-Desenvolvedor JAVA','AWS Foundation','AWS Cloud Developing','TEX Fullstack JS Developer'];
+  courses = ['SENAI-Desenvolvedor JAVA','SENAI-Desenvolvedor C#','AWS Foundation','AWS Cloud Developing','TEX Fullstack JS Developer'];
 }
 class Skills extends Developer {
   languages  = ['C#','JAVA','JS','CSS','HTML','PHP','SQL'];
