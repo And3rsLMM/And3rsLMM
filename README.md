@@ -55,9 +55,6 @@ class Skills extends Developer {
   <a  href="https://steamcommunity.com/id/D34DPoOLy/" alt="Steam" target="_blank" rel="noopener noreferrer">
     <img height="30" src="https://iconape.com/wp-content/files/rq/98762/png/steam-icon-logo.png"> </a>
   Gaming </br>
-  <a  href="https://steamcommunity.com/id/D34DPoOLy/" alt="Steam" target="_blank" rel="noopener noreferrer">
-    <img height="30" src="https://icon-icons.com/downloadimage.php?id=180223&root=2836/PNG/512/&file=pet_cat_icon_180223.png"> </a>
-  Cats
   
   ## **Git Status**  
   [![gitstats](https://github-readme-stats.vercel.app/api?username=And3rsLMM&show_icons=true&theme=merko&hide_title=true&text_color=#42f548&icons_color=#42f548)](https://github.com/anuraghazra/github-readme-stats)
