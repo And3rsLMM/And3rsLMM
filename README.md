@@ -1,5 +1,6 @@
-````md
 ## **Welcome to my GitHub**
+
+<img align="right" width="250" height="290" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" />
 
 ```js
 import Developer from "And3rsLMM";
@@ -7,10 +8,7 @@ import Developer from "And3rsLMM";
 class AboutMe extends Developer {
   name = "Anderson Lima";
   role = "Software Developer";
-  level = "Full Stack Developer";
   area = "Software Development";
-
-  formation = "Software Engineering student";
 
   focus = [
     "Backend Development",
@@ -22,121 +20,30 @@ class AboutMe extends Developer {
   ];
 
   currentWork = [
-    "Development and maintenance of corporate systems",
-    "Fiscal integrations with NFS-e, NF-e, CT-e, MDF-e and DC-e",
-    "REST and SOAP API integrations",
-    "Microservices and distributed systems",
-    "Cloud, containers and monitoring"
+    "Corporate systems development",
+    "Fiscal integrations",
+    "REST and SOAP APIs",
+    "Microservices",
+    "Cloud and monitoring"
   ];
 }
 
 class Skills extends Developer {
-  languages = [
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "C#",
-    "SQL",
-    "HTML",
-    "CSS"
-  ];
+  languages = ["JavaScript", "TypeScript", "Java", "C#", "SQL", "HTML", "CSS"];
 
-  backend = [
-    "Node.js",
-    "MoleculerJS",
-    "Java",
-    "Spring Boot",
-    ".NET",
-    "REST APIs",
-    "SOAP",
-    "XML",
-    "JSON",
-    "OpenAPI",
-    "Swagger"
-  ];
+  backend = ["Node.js", "MoleculerJS", "Java", "Spring Boot", ".NET", "REST", "SOAP"];
 
-  frontend = [
-    "Angular",
-    "OpenUI5",
-    "React",
-    "HTML",
-    "CSS"
-  ];
+  frontend = ["Angular", "OpenUI5", "React", "HTML", "CSS"];
 
-  databases = [
-    "MongoDB",
-    "Redis",
-    "SQL Server",
-    "Oracle",
-    "MySQL"
-  ];
+  databases = ["MongoDB", "Redis", "SQL Server", "Oracle", "MySQL"];
 
-  devOpsAndCloud = [
-    "Docker",
-    "Kubernetes",
-    "AWS",
-    "GCP",
-    "GitHub Actions",
-    "Grafana",
-    "Loki",
-    "Prometheus",
-    "Linux"
-  ];
+  devOps = ["Docker", "Kubernetes", "AWS", "GCP", "Grafana", "Loki", "Prometheus"];
 
-  tools = [
-    "VS Code",
-    "Visual Studio",
-    "Eclipse",
-    "SAP GUI",
-    "Postman",
-    "Insomnia",
-    "Git"
-  ];
+  tools = ["VS Code", "Visual Studio", "Eclipse", "SAP GUI", "Postman", "Insomnia", "Git"];
 }
+```
 
-class Projects extends Developer {
-  fiscalIntegrations = {
-    description: "Development and maintenance of fiscal integration services",
-    documents: ["NFS-e", "NF-e", "CT-e", "MDF-e", "DC-e"],
-    activities: [
-      "Document emission flows",
-      "Document consultation and cancellation",
-      "Fiscal event processing",
-      "XML and XSD validation",
-      "SOAP and REST integrations",
-      "Payload mapping and transformation",
-      "Error handling and production support"
-    ]
-  };
-
-  observability = {
-    description: "Monitoring environment for services and infrastructure",
-    stack: [
-      "Grafana",
-      "Loki",
-      "Prometheus",
-      "Promtail",
-      "Docker",
-      "Linux",
-      "AWS EC2"
-    ]
-  };
-
-  documentation = {
-    description: "Technical documentation for APIs, integrations and internal processes",
-    stack: [
-      "OpenAPI",
-      "Swagger",
-      "Docusaurus",
-      "Markdown"
-    ]
-  };
-}
-````
-
-<h1></h1>
-
-<img align="right" width="250" height="290" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" />
+<br/>
 
 ## **About me**
 
@@ -146,42 +53,46 @@ I work with the development, maintenance and evolution of corporate systems, mai
 
 My experience includes projects related to **NFS-e, NF-e, CT-e, MDF-e and DC-e**, working with document emission, consultation, cancellation, fiscal events, payload validation, external APIs, web services and troubleshooting.
 
-I also have experience with DevOps-related activities, such as Docker environments, Kubernetes, cloud deployments, logs, dashboards, monitoring and technical documentation.
+<br/>
 
 ## **Skills**
 
 ### **Languages**
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-</a>
-<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-</a>
-<a href="https://www.java.com/pt-BR/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-</a>
-<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
-</a>
+<p align="left">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+  </a>
+</p>
 
 ### **Backend and APIs**
 
-<a href="https://nodejs.org/en/docs" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
-</a>
-<a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/>
-</a>
+<p align="left">
+  <a href="https://nodejs.org/en/docs" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"/>
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/>
+  </a>
+</p>
 
 ```js
 const backend = [
@@ -201,77 +112,98 @@ const backend = [
 
 ### **Frontend**
 
-<a href="https://angular.io/docs" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
-</a>
-<a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-</a>
-<a href="https://sap.github.io/openui5/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://sap.github.io/ui5-tooling/images/UI5_logo_wide.png" alt="OpenUI5"/>
-</a>
+<p align="left">
+  <a href="https://angular.io/docs" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  </a>
+</p>
 
 ```js
-const frontend = [
-  "Angular",
-  "OpenUI5",
-  "React",
-  "HTML",
-  "CSS"
-];
+const frontend = ["Angular", "OpenUI5", "React", "HTML", "CSS"];
 ```
 
 ### **Databases**
 
-<a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-</a>
-<a href="https://redis.io/docs/latest/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
-</a>
-<a href="https://learn.microsoft.com/pt-br/sql/sql-server/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
-</a>
-<a href="https://www.oracle.com/br/database/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
-</a>
-<a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-</a>
+<p align="left">
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+  </a>
+  <a href="https://redis.io/docs/latest/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/sql/sql-server/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
+  </a>
+  <a href="https://www.oracle.com/br/database/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  </a>
+</p>
+
+<br/>
+
+## **Projects and Experience**
 
 ```js
-const databases = [
-  "MongoDB",
-  "Redis",
-  "SQL Server",
-  "Oracle",
-  "MySQL"
-];
+const fiscalIntegrations = {
+  description: "Development and maintenance of fiscal integration services",
+  documents: ["NFS-e", "NF-e", "CT-e", "MDF-e", "DC-e"],
+  activities: [
+    "Fiscal document emission",
+    "Document consultation",
+    "Cancellation flows",
+    "Fiscal event processing",
+    "XML and JSON payload mapping",
+    "XSD validation",
+    "SOAP and REST API integrations",
+    "Production support and troubleshooting"
+  ],
+  stack: ["Node.js", "MoleculerJS", "XML", "JSON", "SOAP", "REST", "MongoDB", "Redis"]
+};
+
+const observability = {
+  description: "Monitoring environment for services and infrastructure",
+  stack: ["AWS EC2", "Docker", "Grafana", "Loki", "Prometheus", "Promtail", "Linux"]
+};
+
+const documentation = {
+  description: "Technical documentation for APIs, integrations and internal processes",
+  stack: ["OpenAPI", "Swagger", "Docusaurus", "Markdown"]
+};
 ```
 
-### **DevOps, Cloud and Observability**
+<br/>
 
-<a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
-</a>
-<a href="https://kubernetes.io/docs/home/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/>
-</a>
-<a href="https://docs.aws.amazon.com/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
-</a>
-<a href="https://cloud.google.com/docs" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP"/>
-</a>
-<a href="https://grafana.com/docs/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana"/>
-</a>
-<a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-</a>
+## **DevOps, Cloud and Observability**
+
+<p align="left">
+  <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  </a>
+  <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"/>
+  </a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP"/>
+  </a>
+  <a href="https://grafana.com/docs/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana"/>
+  </a>
+  <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+  </a>
+</p>
 
 ```js
 const devOpsAndCloud = [
@@ -287,138 +219,29 @@ const devOpsAndCloud = [
 ];
 ```
 
-## **Projects and Experience**
-
-### **Fiscal integrations platform**
-
-```js
-const fiscalIntegrations = {
-  description: "Development and maintenance of fiscal integration services",
-  documents: [
-    "NFS-e",
-    "NF-e",
-    "CT-e",
-    "MDF-e",
-    "DC-e"
-  ],
-  responsibilities: [
-    "Fiscal document emission",
-    "Document consultation",
-    "Cancellation flows",
-    "Fiscal event processing",
-    "XML and JSON payload mapping",
-    "XSD validation",
-    "SOAP and REST API integrations",
-    "Production support and troubleshooting"
-  ],
-  stack: [
-    "Node.js",
-    "MoleculerJS",
-    "JavaScript",
-    "XML",
-    "JSON",
-    "SOAP",
-    "REST",
-    "MongoDB",
-    "Redis",
-    "Docker"
-  ]
-};
-```
-
-### **Cloud monitoring and observability**
-
-```js
-const observabilityProject = {
-  description: "Monitoring environment for services and infrastructure",
-  goal: "Improve visibility of logs, metrics and service behavior",
-  stack: [
-    "AWS EC2",
-    "Docker",
-    "Grafana",
-    "Loki",
-    "Prometheus",
-    "Promtail",
-    "Linux"
-  ]
-};
-```
-
-### **API documentation and internal processes**
-
-```js
-const technicalDocumentation = {
-  description: "Technical documentation for APIs, integrations and internal flows",
-  focus: [
-    "API documentation",
-    "Fiscal process documentation",
-    "Internal technical guides",
-    "Swagger and OpenAPI specifications"
-  ],
-  tools: [
-    "Markdown",
-    "OpenAPI",
-    "Swagger",
-    "Docusaurus"
-  ]
-};
-```
-
-### **Corporate integrations**
-
-```js
-const corporateIntegrations = {
-  description: "Integration between corporate systems, ERPs and external services",
-  activities: [
-    "API consumption",
-    "Payload transformation",
-    "Certificate handling",
-    "Fiscal service integration",
-    "Error tracking",
-    "System maintenance"
-  ],
-  stack: [
-    "Node.js",
-    "Java",
-    "REST",
-    "SOAP",
-    "XML",
-    "JSON",
-    "SAP",
-    "Certificates"
-  ]
-};
-```
+<br/>
 
 ## **Tools**
 
-<a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"/>
-</a>
-<a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio"/>
-</a>
-<a href="https://www.eclipse.org/documentation/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="Eclipse"/>
-</a>
-<a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/>
-</a>
+<p align="left">
+  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio"/>
+  </a>
+  <a href="https://www.eclipse.org/documentation/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="Eclipse"/>
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/>
+  </a>
+</p>
 
-```js
-const tools = [
-  "VS Code",
-  "Visual Studio",
-  "Eclipse",
-  "SAP GUI",
-  "Postman",
-  "Insomnia",
-  "Git"
-];
-```
+<br/>
 
 ## **Daily work**
 
@@ -436,6 +259,8 @@ const dailyWork = [
 ];
 ```
 
+<br/>
+
 ## **Contact me**
 
 <p align="left">
@@ -447,4 +272,3 @@ const dailyWork = [
     <img height="32" src="https://iconape.com/wp-content/files/ot/76245/png/linkedin-icon.png" alt="LinkedIn"/>
   </a>
 </p>
-```
