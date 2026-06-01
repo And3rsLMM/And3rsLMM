@@ -125,25 +125,30 @@ const backend = [
 const frontend = ["Angular", "OpenUI5", "React", "HTML", "CSS"];
 ```
 
-### **Databases**
-
-<p align="left">
-  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer">
+### **Databases** 
+<p align="left"> 
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noopener noreferrer"> 
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
-  </a>
-  <a href="https://redis.io/docs/latest/" target="_blank" rel="noopener noreferrer">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/>
-  </a>
-  <a href="https://learn.microsoft.com/pt-br/sql/sql-server/" target="_blank" rel="noopener noreferrer">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
-  </a>
-  <a href="https://www.oracle.com/br/database/" target="_blank" rel="noopener noreferrer">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/>
-  </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  </a>
-</p>
+  </a> 
+  <a href="https://redis.io/docs/latest/" target="_blank" rel="noopener noreferrer"> 
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/pt-br/sql/sql-server/" target="_blank" rel="noopener noreferrer"> 
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/> 
+  </a> 
+  <a href="https://www.oracle.com/br/database/" target="_blank" rel="noopener noreferrer"> 
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle"/> 
+  </a> 
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer"> 
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/> 
+  </a> 
+</p> 
+
+I work with relational and non-relational databases, mainly for corporate systems, fiscal integrations, document storage, cache, queues, queries, data validation and troubleshooting.
+
+```js
+const databases = { relational: [ "SQL Server", "Oracle", "MySQL" ], noSql: [ "MongoDB", "Redis" ], experience: [ "Query development", "Data analysis", "Document storage", "Cache usage", "Integration data validation", "Production troubleshooting" ] };
+```
 
 <br/>
 
@@ -240,6 +245,13 @@ const devOpsAndCloud = [
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/>
   </a>
 </p>
+
+These are some of the tools I use in my daily work for development, debugging, API testing, version control, technical analysis and system maintenance.
+
+```js
+const tools = { ides: [ "VS Code", "Visual Studio", "Eclipse", "SAP GUI" ], apiTesting: [ "Postman", "Insomnia" ], versionControl: [ "Git", "GitHub", "Bitbucket" ], dailyUse: [ "Code development", "Debugging", "API testing", "Version control", "Technical documentation", "Production support" ] };
+```
+
 
 <br/>
 
