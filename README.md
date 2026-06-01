@@ -39,7 +39,7 @@ class Skills extends Developer {
 
   devOps = ["Docker", "Kubernetes", "AWS", "GCP", "Grafana", "Loki", "Prometheus"];
 
-  tools = ["VS Code", "Visual Studio", "Eclipse", "SAP GUI", "Postman", "Insomnia", "Git"];
+  tools = ["VS Code", "Visual Studio", "Eclipse", "SAP GUI", "Postman", "Git"];
 }
 ```
 
