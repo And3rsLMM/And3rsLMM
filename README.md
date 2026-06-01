@@ -49,14 +49,3 @@ class Skills extends Developer {
     <img height="24" src="https://iconape.com/wp-content/files/rr/353408/png/google-gmail-logo.png" /></a>
   <a  href="https://www.linkedin.com/in/anderson-lima-de-menezes-08a8541ab/" alt="Linkedin" target="_blank" rel="noopener noreferrer">
     <img height="32" src="https://iconape.com/wp-content/files/ot/76245/png/linkedin-icon.png" /></a>
-
-## **More about Anderson**
-<p align="left">
-  <a  href="https://steamcommunity.com/id/D34DPoOLy/" alt="Steam" target="_blank" rel="noopener noreferrer">
-    <img height="30" src="https://iconape.com/wp-content/files/rq/98762/png/steam-icon-logo.png"> </a>
-  Gaming </br>
-  
-  ## **Git Status**  
-  [![gitstats](https://github-readme-stats.vercel.app/api?username=And3rsLMM&show_icons=true&theme=merko&hide_title=true&text_color=#42f548&icons_color=#42f548)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![gitstats](https://github-readme-stats.vercel.app/api/top-langs/?username=And3rsLMM&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
