@@ -147,7 +147,11 @@ const frontend = ["Angular", "OpenUI5", "React", "HTML", "CSS"];
 I work with relational and non-relational databases, mainly for corporate systems, fiscal integrations, document storage, cache, queues, queries, data validation and troubleshooting.
 
 ```js
-const databases = { relational: [ "SQL Server", "Oracle", "MySQL" ], noSql: [ "MongoDB", "Redis" ], experience: [ "Query development", "Data analysis", "Document storage", "Cache usage", "Integration data validation", "Production troubleshooting" ] };
+const databases = {
+  relational: [ "SQL Server", "Oracle", "MySQL" ], 
+  noSql: [ "MongoDB", "Redis" ], 
+  experience: [ "Query development", "Data analysis", "Document storage", "Cache usage", "Integration data validation", "Production troubleshooting" ] 
+};
 ```
 
 <br/>
@@ -249,7 +253,12 @@ const devOpsAndCloud = [
 These are some of the tools I use in my daily work for development, debugging, API testing, version control, technical analysis and system maintenance.
 
 ```js
-const tools = { ides: [ "VS Code", "Visual Studio", "Eclipse", "SAP GUI" ], apiTesting: [ "Postman", "Insomnia" ], versionControl: [ "Git", "GitHub", "Bitbucket" ], dailyUse: [ "Code development", "Debugging", "API testing", "Version control", "Technical documentation", "Production support" ] };
+const tools = {
+  ides: [ "VS Code", "Visual Studio", "Eclipse", "SAP GUI" ],
+  apiTesting: [ "Postman", "Swagger" ],
+  versionControl: [ "Git", "GitHub", "Bitbucket" ],
+  dailyUse: [ "Code development", "Debugging", "API testing", "Version control", "Technical documentation", "Production support" ]
+};
 ```
 
 
